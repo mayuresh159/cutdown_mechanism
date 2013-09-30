@@ -2,8 +2,9 @@
 
 // macros
 unsigned int cutdown_thresh = 10;
-unsigned int on_time = 30;
+unsigned int on_time = 10;
 unsigned int inc_time = 1000;
+
 
 // pin placements
 int relay_pin = 2;
